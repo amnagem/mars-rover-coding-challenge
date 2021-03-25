@@ -1,0 +1,12 @@
+/Users/angela-maureennagem/Projects/MarsRoverChallenge/MarsRoverChallenge/bin/Debug/netcoreapp3.1/MarsRoverChallenge.deps.json
+/Users/angela-maureennagem/Projects/MarsRoverChallenge/MarsRoverChallenge/bin/Debug/netcoreapp3.1/MarsRoverChallenge.runtimeconfig.json
+/Users/angela-maureennagem/Projects/MarsRoverChallenge/MarsRoverChallenge/bin/Debug/netcoreapp3.1/MarsRoverChallenge.runtimeconfig.dev.json
+/Users/angela-maureennagem/Projects/MarsRoverChallenge/MarsRoverChallenge/bin/Debug/netcoreapp3.1/MarsRoverChallenge.dll
+/Users/angela-maureennagem/Projects/MarsRoverChallenge/MarsRoverChallenge/bin/Debug/netcoreapp3.1/MarsRoverChallenge.pdb
+/Users/angela-maureennagem/Projects/MarsRoverChallenge/MarsRoverChallenge/obj/Debug/netcoreapp3.1/MarsRoverChallenge.csprojAssemblyReference.cache
+/Users/angela-maureennagem/Projects/MarsRoverChallenge/MarsRoverChallenge/obj/Debug/netcoreapp3.1/MarsRoverChallenge.AssemblyInfoInputs.cache
+/Users/angela-maureennagem/Projects/MarsRoverChallenge/MarsRoverChallenge/obj/Debug/netcoreapp3.1/MarsRoverChallenge.AssemblyInfo.cs
+/Users/angela-maureennagem/Projects/MarsRoverChallenge/MarsRoverChallenge/obj/Debug/netcoreapp3.1/MarsRoverChallenge.csproj.CoreCompileInputs.cache
+/Users/angela-maureennagem/Projects/MarsRoverChallenge/MarsRoverChallenge/obj/Debug/netcoreapp3.1/MarsRoverChallenge.dll
+/Users/angela-maureennagem/Projects/MarsRoverChallenge/MarsRoverChallenge/obj/Debug/netcoreapp3.1/MarsRoverChallenge.pdb
+/Users/angela-maureennagem/Projects/MarsRoverChallenge/MarsRoverChallenge/obj/Debug/netcoreapp3.1/MarsRoverChallenge.genruntimeconfig.cache
